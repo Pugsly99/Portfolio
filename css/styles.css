@@ -1,18 +1,29 @@
 .Jumbotron {
   text-align: center;
-  background-color: rgb(138, 63, 168);
+  background-color:rgb(182, 192, 221);
   margin: 30px;
- 
 }
 
 .centertext {
   text-align: center;
 }
 
+.textdark {
+  color: black;
+}
+
+
+
 .card {
-  margin: 30px;
+  margin: 10px;
+  background-color: cornflowerblue;
 }
 
 img {
   block-size: 500px;
+  margin-bottom: 30pxs;
+}
+
+button {
+  margin: 30px;
 }
