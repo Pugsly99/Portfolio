@@ -28,6 +28,11 @@ button {
   margin: 30px;
 }
 
-.backgroundprojects {
-  background-color: cornflowerblue;
+.listspace{
+  margin-bottom: 15px;
+}
+
+.textimportant {
+  color: gold;
+  font-style: italic;
 }
