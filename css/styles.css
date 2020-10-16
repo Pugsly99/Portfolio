@@ -16,7 +16,12 @@
 
 .card {
   margin: 10px;
+  border: 2px silver;
   background-color: cornflowerblue;
+}
+
+.border {
+  border: 1px rgb(207, 12, 12);
 }
 
 img {
@@ -35,4 +40,9 @@ button {
 .textimportant {
   color: gold;
   font-style: italic;
+}
+
+.ghost {
+  font-style: italic;
+  color: rgba(245, 245, 245, 0.904);
 }
