@@ -12,3 +12,7 @@
 .card {
   margin: 30px;
 }
+
+img {
+  block-size: 500px;
+}
