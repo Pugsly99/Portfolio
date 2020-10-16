@@ -10,8 +10,8 @@
 * _learn_about me_
 
 ## Setup option 2
-* _Clone this repository_ 
-* _open the website in VS Studio_
+* _Vist https://pugsly99.github.io/Portfolio/_ 
+* _Learn about me_
 
 
 ## Technology Used 
