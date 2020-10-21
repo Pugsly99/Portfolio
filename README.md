@@ -2,11 +2,25 @@
 ### Week 1 Friday Project, 10.16.2020
 ## By Ryland Scott Adams
 ## Description 
-* _A website I made that acts as a portfolio housing information about my family, intrests, and my life so far!_
+* _A website I made that will give you some insight into my life and some of the major events I have encountered along the way! You can see my hobbies, my education and some pictures of my family if you click into the corresponding pictures._
 
 ## Setup option 1
-* _Clone this repository_ 
+* _On Github locate my repository link by clicking the green button that says "Code", this will open a drop down menu to allow for you to copy my https://_
+
+* _Open Git Bash._ 
+
+* _Change the current working directory to the location where you want the cloned directory._
+
+* _Type git clone, and then paste the URL you copied earlier. here is a example ~ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY_
+
+* _Press Enter to create your local clone._
+
+* _Navigate to the directory you were in when you cloned the repository._
+
+* _open the new file you cloned_
+
 * _Open index.html_
+
 * _learn_about me_
 
 ## Setup option 2
