@@ -12,7 +12,10 @@
   color: black;
 }
 
-
+em {
+  font-style: italic;
+  color: aquamarine;
+}
 
 .card {
   margin: 10px;
