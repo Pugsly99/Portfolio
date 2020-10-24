@@ -5,7 +5,7 @@
 * _A website I made that will give you some insight into my life and some of the major events I have encountered along the way! You can see my hobbies, my education and some pictures of my family if you click into the corresponding pictures._
 
 ## Software Requirements
-* _Internet browser
+* _Internet browser_
 * _Git Bash_
 
 ## Setup option 1
